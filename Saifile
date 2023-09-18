@@ -12,8 +12,3 @@ tutorial:
       name: JavaScript Object Notation
       type: great
       born: 2001
-  - xml:
-      name: Extensible Markup Language
-      type: good
-      born: 1996
-author: omkarbirade
